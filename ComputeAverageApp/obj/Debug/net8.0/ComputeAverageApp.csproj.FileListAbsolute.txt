@@ -1,0 +1,15 @@
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\bin\Debug\net8.0\ComputeAverageApp.exe
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\bin\Debug\net8.0\ComputeAverageApp.deps.json
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\bin\Debug\net8.0\ComputeAverageApp.runtimeconfig.json
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\bin\Debug\net8.0\ComputeAverageApp.dll
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\bin\Debug\net8.0\ComputeAverageApp.pdb
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\obj\Debug\net8.0\ComputeAverageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\obj\Debug\net8.0\ComputeAverageApp.AssemblyInfoInputs.cache
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\obj\Debug\net8.0\ComputeAverageApp.AssemblyInfo.cs
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\obj\Debug\net8.0\ComputeAverageApp.csproj.CoreCompileInputs.cache
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\obj\Debug\net8.0\ComputeAverageApp.sourcelink.json
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\obj\Debug\net8.0\ComputeAverageApp.dll
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\obj\Debug\net8.0\refint\ComputeAverageApp.dll
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\obj\Debug\net8.0\ComputeAverageApp.pdb
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\obj\Debug\net8.0\ComputeAverageApp.genruntimeconfig.cache
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\ComputeAverageApp\obj\Debug\net8.0\ref\ComputeAverageApp.dll
