@@ -1,0 +1,15 @@
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\bin\Debug\net8.0\DataTypesApp.exe
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\bin\Debug\net8.0\DataTypesApp.deps.json
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\bin\Debug\net8.0\DataTypesApp.runtimeconfig.json
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\bin\Debug\net8.0\DataTypesApp.dll
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\bin\Debug\net8.0\DataTypesApp.pdb
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\obj\Debug\net8.0\DataTypesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\obj\Debug\net8.0\DataTypesApp.AssemblyInfoInputs.cache
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\obj\Debug\net8.0\DataTypesApp.AssemblyInfo.cs
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\obj\Debug\net8.0\DataTypesApp.csproj.CoreCompileInputs.cache
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\obj\Debug\net8.0\DataTypesApp.sourcelink.json
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\obj\Debug\net8.0\DataTypesApp.dll
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\obj\Debug\net8.0\refint\DataTypesApp.dll
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\obj\Debug\net8.0\DataTypesApp.pdb
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\obj\Debug\net8.0\DataTypesApp.genruntimeconfig.cache
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\DataTypesApp\obj\Debug\net8.0\ref\DataTypesApp.dll
