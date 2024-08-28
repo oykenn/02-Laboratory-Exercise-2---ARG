@@ -1,0 +1,15 @@
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\bin\Debug\net8.0\studentGradeApplication.exe
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\bin\Debug\net8.0\studentGradeApplication.deps.json
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\bin\Debug\net8.0\studentGradeApplication.runtimeconfig.json
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\bin\Debug\net8.0\studentGradeApplication.dll
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\bin\Debug\net8.0\studentGradeApplication.pdb
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\obj\Debug\net8.0\studentGradeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\obj\Debug\net8.0\studentGradeApplication.AssemblyInfoInputs.cache
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\obj\Debug\net8.0\studentGradeApplication.AssemblyInfo.cs
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\obj\Debug\net8.0\studentGradeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\obj\Debug\net8.0\studentGradeApplication.sourcelink.json
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\obj\Debug\net8.0\studentGradeApplication.dll
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\obj\Debug\net8.0\refint\studentGradeApplication.dll
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\obj\Debug\net8.0\studentGradeApplication.pdb
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\obj\Debug\net8.0\studentGradeApplication.genruntimeconfig.cache
+C:\Users\Kenn\sti-Com3\02-Laboratory-Exercise-2---ARG\studentGradeApplication\obj\Debug\net8.0\ref\studentGradeApplication.dll
